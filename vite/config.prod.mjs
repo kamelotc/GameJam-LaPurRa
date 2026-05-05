@@ -17,7 +17,7 @@ const phasermsg = () => {
 }   
 
 export default defineConfig({
-    base: './',
+    base: '/GameJam-LaPurRa/',
     logLevel: 'warning',
     build: {
         rollupOptions: {

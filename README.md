@@ -1,10 +1,10 @@
-# 🐱 GameJam-LaPurRa
+# GameJam-LaPurRa
 
 **Jouez au jeu directement ici : [Lancer le jeu !](https://kamelotc.github.io/GameJam-LaPurRa/)**
 
 ## 📖 Le concept
 
-![Logo du jeu GameJam-LaPurRa](assets/logo.png)
+![Logo du jeu GameJam-LaPurRa]![Logo](public/assets/logo.png)
 
 Vous incarnez un Lapurra (voleur en basque) et vous devez voler un total de 110 pièces en 60 secondes, tout en évitant les bombes.
 
@@ -16,7 +16,7 @@ Bonne chance !!
 ## 🎮 Contrôles
 * **Flèches directionnelles** : Se déplacer
 
-![Gameplay de GameJam-LaPurRa](assets/gameplay.png)
+![Gameplay de GameJam-LaPurRa]![Logo](public/assets/gameplay.png)
 
 ## 🛠️ Outils utilisés
 * **Moteur** : Phaser 3 / Vite
